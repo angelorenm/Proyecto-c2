@@ -1,0 +1,54 @@
+
+Created:  07/04/14
+Modified: 10/04/14
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+12   R1-R6,R12-R17       1K                                                
+5    R7-R11              25k                                               
+1    R18                 6k                                                
+
+Capacitors
+----------
+8    C1-C8               100n                Maplin UQ23A                  
+4    C9-C12              10n                 Maplin UQ23A                  
+2    C13,C14             1n                  Maplin UQ23A                  
+
+Integrated Circuits
+-------------------
+3    U1-U3               TL074                                             
+1    U4                  TL071                                             
+
+Miscellaneous
+-------------
+2    AL AMPLIFICADOR,    TBLOCK-I2                                         
+     ENTRADA ECUALIZADOR
+1    ALIMENTACION        TBLOCK-I3                                         
+1    PUNTOS DE PRUEBA    TBLOCK-I5                                         
+1    RV1                 22.96K              Digikey 3252W-203LF-ND    50k      
+1    RV2                 69.35K              Digikey 3252W-204LF-ND    100K    
+1    RV3                 11.36K              Digikey 3252W-204LF-ND    50K    
+1    RV4                 11.03K              Digikey 3252W-204LF-ND    50K    
+1    RV5                 5.46K               Digikey 3252W-204LF-ND    10K    
+1    RV6                 33.32K              Digikey 3252W-204LF-ND    50k    
+1    RV7                 6.4K                Digikey 3252W-203LF-ND    10K    
+1    RV8                 19.76K              Digikey 3252W-204LF-ND    50K    
+1    RV9                 1.3K                Digikey 3252W-204LF-ND    5K    
+1    RV10                3.92K               Digikey 3252W-204LF-ND    5K    
+1    RV11                796.7               Digikey 3252W-204LF-ND    1K    
+1    RV12                12.09K              Digikey 3252W-204LF-ND    50K    
+1    RV13                17.73K              Digikey 3252W-204LF-ND    50K    
+1    RV14                5.18K               Digikey 3252W-204LF-ND    10k    
+1    RV15                39.79K              Digikey 3252W-204LF-ND    50K    
+1    RV16                11.29K              Digikey 3252W-204LF-ND    50K    
+1    RV17                777.7               Digikey 3252W-204LF-ND    1K    
+1    RV18                28.42K              Digikey 3252W-204LF-ND    50K    
+1    RV19                29.75K              Digikey 3252W-204LF-ND    50k    
+1    RV20                2.55K               Digikey 3252W-204LF-ND    5k    
+1    RV21                74.9K               Digikey 3252W-204LF-ND    50k    
+5    RV22-RV26           100K                Digikey 3252W-204LF-ND        
+
+
+

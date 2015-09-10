@@ -1,0 +1,49 @@
+Bill Of Materials
+=================
+Design:   C:\Users\Angel\C2\Proyecto\entradas auxiliares y microfono1 - copia.DSN
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  30/03/14
+Modified: 12/04/14
+
+QTY  PART-REFS           VALUE               CODE                          
+---  ---------           -----               ----                          
+Resistors
+---------
+3    R1,R4,R22           5k                  M100K                         
+4    R2,R10,R13,R23      4.7k                M100K                         
+2    R3,R9               6k                  M100K                         
+3    R5,R17,R31          20k                 M100K                         
+3    R6,R20,R32          40k                 M100K                         
+6    R7,R8,R19,R21,      330R                M100K                         
+     R28,R29
+4    R11,R18,R30,R33     1k                  M100K                         		anotado		2
+4    R12,R24-R26         10k                 M100K   					anotado  2                     
+
+Capacitors
+----------
+12   C1,C2,C7,C9-C11,    1u                  Maplin VH43W                  
+     C15,C17-C21
+3    C3,C5,C6            10u                 Maplin VH43W                  
+1    C4                  220u                Maplin VH43W                  
+3    C8,C16,C22          100p                Maplin VH43W                  
+
+Integrated Circuits
+-------------------
+2    U1,U2               TL074                                             		anotado	
+3    U4-U6               TL071              						anotado                               
+
+Diodes
+------
+6    D1-D6               1N4733A                 					anotado                          
+
+Miscellaneous
+-------------
+5    ALIMENTACION,J2,J3, TBLOCK-I3                                         
+     SALIDA-EQ,SWI1
+4    CT1-CT4             PICAXE SOCKET       CON039                        
+3    J1,OSC-IN2,OSC-OUT  TBLOCK-I2                                         
+4    MASTER,RV1,RV2,RV4  10K                 Digikey 3005P-102-ND          		ya	
+1    RV3                 50K                 Digikey 3005P-102-ND 			ya         
+
